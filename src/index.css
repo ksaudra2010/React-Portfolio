@@ -1,0 +1,112 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root,
+#root > div,
+div[data-reactroot] {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-image: url("/React-Portfolio/assets/images/pexels-photo-255379.jpeg");
+  margin:0px;
+  font-family: 'Solway', 'serif' !important;
+}
+.maincontent {
+  align-content: center;
+  background-color: salmon;
+  width: 960px;
+  padding: 10px;
+  border: 2px solid darkgray;
+  margin: 20px auto;
+  font-size: 18px;
+    overflow: auto;
+  } 
+h2 {
+    color:#688381;
+    font-size: 28px;
+        text-align: left;}
+
+
+  #multiattribute {
+      float:left;
+      color: salmon;
+      font-size: 20px;      
+      background-color: salmon;
+      font-style: bold;
+      padding: 14px 0;  
+      font-family: 'Solway' 'serif' !important;
+  }
+  
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+      img {
+        float: left;
+      }
+            
+      li a {
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      .header2 {
+        width:960px;
+        height: 40px;
+        padding: 10px;
+        align-content: center;
+        margin: auto;
+        font-size: 18px;
+        display: auto;
+        background-color: salmon;
+      }
+      
+      .gallery {
+        align-content: center;
+        background-color: white;
+        width:100%;
+        padding: 10px;
+        border: 2px solid darkgray;
+        margin: 20px auto;
+        font-size: 18px;
+         position: relative;  
+      }
+      input[type=text], select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      
+      input[type=submit] {
+        width: 100%;
+        background-color:  #688381;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      
+      input[type=submit]:hover {
+        background-color:  #688381;
+      }
+   
+      .row ul li {
+          line-height: 24px;
+      }
+  
+      
