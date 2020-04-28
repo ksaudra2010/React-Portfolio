@@ -10,7 +10,7 @@ function App() {
     <Router>
     <div style={{backgroundImage: `url("${process.env.PUBLIC_URL}/assets/images/pexels-photo-255379.jpeg")`}}>
       <Navbar />
-      <Route exact path="/" component={ReactPortfolio} />
+      <Route exact path="/" component={About} />
       <Route exact path="/about" component={About} />
       <Route exact path="/portfolio" component={Portfolio} />
     </div>
