@@ -1,4 +1,4 @@
-# React-Portfolio Audra Kosinski
+# ReactPortfolio Audra Kosinski
 
 Full Stack Web Developer with expertise in both Operations and the Human Side of Business.
 
