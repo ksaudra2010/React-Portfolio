@@ -1,6 +1,5 @@
 import React from "react";
 import About from "./pages/About";
-import ReactPortfolio from "./pages/ReactPortfolio";
 import Portfolio from "./pages/Portfolio";
 import Navbar from "./components/Navbar";
 import { BrowserRouter as Router, Route } from "react-router-dom";

@@ -12,11 +12,16 @@ function About() {
           <br/>
           <br/>
   Certificate from University of Kansas Professional Education in full stack web technologies including JavaScript, CSS, HTML, and Node.js. I also maintain a Senior Professional of Human Resources Certification (SPHR) from HRCI and received my MBA from UMKC. Additionally, I am sitting for my Project Management Professional Certification (PMP) exam in May 2020. 
-  <br/> I speak Coding, Operations, and HR, and I can bridge the gap in your projects among subject matter experts. Having mastered everything from program compliance audit creation to automated sorting system troubleshooting, I am the expert you’ve been searching for to achieve and exceed your organization’s project goals. My ability to bring the software and human sides together makes me a valuable addition to your technology team.
+  <br/> 
+  <br/> 
+  <br/>
+  I speak Coding, Operations, and HR, and I can bridge the gap in your projects among subject matter experts. Having mastered everything from program compliance audit creation to automated sorting system troubleshooting, I am the expert you’ve been searching for to achieve and exceed your organization’s project goals. My ability to bring the software and human sides together makes me a valuable addition to your technology team.
       </p>
+      <br> </br> 
+    <a href='https://github.com/ksaudra2010' target='_blank'>GitHub</a>
       <br/>
       <br/>
-     <a href='./Resume 2020.pdf' target='_blank'>Resume</a>
+     <a href='/assets/images/Resume 2020.pdf' target='_blank'>Resume</a>
      <br/>
      <br/>
      <a href='https://www.linkedin.com/in/audrakosinski' target='_blank'>Linked In</a>
