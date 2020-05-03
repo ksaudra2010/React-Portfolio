@@ -8,7 +8,9 @@ function About() {
       <h2>About Me</h2>
       <img
           src="https://media-exp1.licdn.com/dms/image/C4E03AQHhHscfRSlL8g/profile-displayphoto-shrink_200_200/0?e=1591228800&v=beta&t=0juudDZGJSQlmes9HyYAoly_r_5Xl47QxCymirwnsqg" />
-      <p>Full Stack Web Developer with expertise in both Operations and the Human Side of Business.
+      <a href='email:esugrad2004@gmail.com' target='_blank'></a>
+    <a href='tel:913-579-9070' target='_blank'>Call</a>
+        <p>Full Stack Web Developer with expertise in both Operations and the Human Side of Business.
           <br/>
           <br/>
   Certificate from University of Kansas Professional Education in full stack web technologies including JavaScript, CSS, HTML, and Node.js. I also maintain a Senior Professional of Human Resources Certification (SPHR) from HRCI and received my MBA from UMKC. Additionally, I am sitting for my Project Management Professional Certification (PMP) exam in May 2020. 
