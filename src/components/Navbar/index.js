@@ -16,7 +16,7 @@ function Navbar() {
                 <div className="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo02">
                   <ul className="navbar-nav navbar-right mt-2 mt-lg-0">
                       <li className="navbar-right nav-item active">
-                          <Link className="nav-link" to="/">About<span className="sr-only">(current)</span></Link>
+                          <Link className="nav-link" to="/about">About<span className="sr-only">(current)</span></Link>
                         </li>
                         <li className="nav-item active">
                             <Link className="nav-link" to="/portfolio">Portfolio<span className="sr-only">(current)</span></Link>
