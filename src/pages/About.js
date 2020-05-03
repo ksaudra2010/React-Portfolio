@@ -8,8 +8,11 @@ function About() {
     <h2>About Me</h2>
     <img
         src="https://media-exp1.licdn.com/dms/image/C4E03AQHhHscfRSlL8g/profile-displayphoto-shrink_200_200/0?e=1591228800&v=beta&t=0juudDZGJSQlmes9HyYAoly_r_5Xl47QxCymirwnsqg" />
-    <a href='email:esugrad2004@gmail.com' target='_blank'></a>
-    <a href='tel:913-579-9070' target='_blank'>Call</a>
+    <a href='email:esugrad2004@gmail.com' target='_blank'>Email esugrad2004@gmail.com</a>
+    <br/>
+    <a href='tel:913-579-9070' target='_blank'>Call 913-579-9070</a>
+    <br/>
+    <br/>
     <p>Full Stack Web Developer with expertise in both Operations and the Human Side of Business.
         <br/>
         <br/>
