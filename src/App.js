@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Route, Redirect } from "react-router-dom";
 
 function App() {
   return (
-    <Router>
+    <Router basename = {'/ReactPortfolio'}>
     <div style={{backgroundImage: `url("${process.env.PUBLIC_URL}/assets/images/pexels-photo-255379.jpeg")`}}>
       <Navbar />
       {/* <Route exact path="/" component={About} /> */}
